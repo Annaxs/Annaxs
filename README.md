@@ -1,10 +1,3 @@
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Annaxs&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/Annaxs?label=Followers&style=flat&color=blue" />
-</p>
-
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ananta%20Srivastava&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
