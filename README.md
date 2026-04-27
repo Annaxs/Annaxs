@@ -1,7 +1,7 @@
 # 👩‍💻 Ananta Srivastava
 
 <p align="center">
-  ☁️ Cloud Engineer @ FICO <br/>
+  ☁️ Cloud Engineer I @ FICO <br/>
   🚀 Distributed Systems • Pulsar • Kafka • Kubernetes <br/>
   ⚡ Observability • Reliability • Event Streaming  
 </p>
