@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ananta%20Srivastava&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ananta%20Srivastava&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%40+FICO;Distributed+Systems+Engineer;Pulsar+%7C+Kafka+%7C+Kubernetes;Observability+%7C+Reliability;Building+Systems+That+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&pause=1000&duration=3000&lines=Cloud+Engineer+%40+FICO;Distributed+Systems+Engineer;Pulsar+%7C+Kafka+%7C+Kubernetes;Observability+%7C+Reliability;Building+Systems+That+Scale" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Annaxs&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/Annaxs?label=Followers&style=flat&color=0e75b6" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2&section=header"/>
 </p>
 
 ---
@@ -23,6 +27,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:203a43&height=2&section=header"/>
+</p>
+
 ## ⚡ Systems I Work With
 
 <p align="center">
@@ -33,29 +41,80 @@
   <img src="https://img.shields.io/badge/Apache%20Pulsar-000000?style=for-the-badge&logo=apachepulsar&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 What I Work On
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2&section=header"/>
+</p>
+
+## 🚀 Platform Engineering Work
 
 ### 🔹 Pulsar Platform Engineering & Observability
 
-* 🚀 Supporting **Pulsar deployments on Kubernetes**
-* 🧩 Working with **Cell-Based Architecture (CBA)** and non-cell environments
-* 📊 Designing **Grafana dashboards & monitoring pipelines**
-* 🚨 Building **alerting systems integrated with ServiceNow**
-* 🔄 Managing observability using **GitOps (ArgoCD-driven)**
+Working on **deployment, monitoring, and reliability of Apache Pulsar clusters** across distributed cloud environments
+
+#### ⚙️ Platform
+
+* 🚀 Deploying and maintaining **Pulsar clusters on Kubernetes**
+* 🧩 Supporting **Cell-Based Architecture (CBA)** and non-cell deployments
+* 🔐 Managing **multi-tenant streaming environments**
+* ⚡ Ensuring **availability, scalability, and performance**
+
+---
+
+#### 📊 Observability (My Contributions)
+
+* 🔍 Built **metrics pipelines**
+
+  * Prometheus (ServiceMonitor / PodMonitor)
+  * OTEL → Cribl → SignalFx (legacy systems)
+
+* 📊 Designed **Grafana dashboards**
+
+  * Broker throughput & health
+  * BookKeeper latency & storage
+  * Topic-level traffic insights
+
+* 🧠 Enabled **template-driven dashboards**
+
+  * Auto-provisioned across environments via GitOps
+
+---
+
+#### 🚨 Alerting & Incident Flow
+
+* ⚠️ Designed alerting using **Grafana & Splunk detectors**
+* 🔔 Integrated alerts with **ServiceNow for automated incidents**
+* ⚡ Enabled **end-to-end alert → incident pipeline**
+
+---
+
+#### 🔄 Automation & GitOps
+
+* 📁 Managed observability configs via **Git repositories**
+* 🔁 Automated monitoring deployment across environments
+* 🚀 Followed **ArgoCD-driven GitOps model**
+
+---
+
+#### 🧠 Impact
+
+* 📉 Improved system visibility across distributed clusters
+* ⚡ Reduced incident detection and resolution time
+* 🔧 Enabled scalable monitoring for dynamic environments
 
 ---
 
 ### 🔹 Kubernetes Debug Toolkit *(WIP)*
 
-* 🛠 Pod debugging
+* 🛠 Pod and workload debugging
 * 📈 Resource monitoring
-* ⚠️ Cluster health checks
+* ⚠️ Cluster health insights
 
 ---
 
@@ -66,6 +125,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:203a43&height=2&section=header"/>
+</p>
+
 ## 📡 Engineering Signals
 
 <p align="center">
@@ -74,6 +137,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2&section=header"/>
+</p>
 
 ## 📊 GitHub Insights
 
@@ -88,6 +155,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:203a43&height=2&section=header"/>
+</p>
+
 ## 🐍 Contribution Flow
 
 <p align="center">
@@ -99,15 +170,15 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/ananta-srivastava-226299218/">
+    <img src="https://img.shields.io/badge/Let's%20Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-✨ Building resilient systems • Observing everything • Fixing what matters
+✨ Cloud platforms • Distributed systems • Observability-first engineering
 </p>
 
 <p align="center">
