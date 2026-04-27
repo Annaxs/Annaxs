@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ananta%20Srivastava&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:8e2de2,100:4a00e0&height=200&section=header&text=Ananta%20Srivastava&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&pause=1000&duration=3000&lines=Cloud+Engineer+%40+FICO;Distributed+Systems+Engineer;Pulsar+%7C+Kafka+%7C+Kubernetes;Observability+%7C+Reliability;Building+Systems+That+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&center=true&vCenter=true&width=650&pause=1000&duration=3000&lines=Cloud+Engineer+%40+FICO;Pulsar+%7C+Kafka+%7C+Kubernetes;Observability+%7C+Reliability;Building+Systems+That+Scale" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Annaxs&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Annaxs?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=Annaxs&label=Profile%20Views&color=8e2de2&style=flat" />
+  <img src="https://img.shields.io/github/followers/Annaxs?label=Followers&style=flat&color=8e2de2" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:4a00e0&height=2&section=header"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:203a43&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a00e0,100:8e2de2&height=2&section=header"/>
 </p>
 
 ## ⚡ Systems I Work With
@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:4a00e0&height=2&section=header"/>
 </p>
 
 ## 🚀 Platform Engineering Work
@@ -126,20 +126,20 @@ Working on **deployment, monitoring, and reliability of Apache Pulsar clusters**
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:203a43&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a00e0,100:8e2de2&height=2&section=header"/>
 </p>
 
 ## 📡 Engineering Signals
 
 <p align="center">
-  <img src="https://img.shields.io/badge/15x%20Spot%20Awards-Performance-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/15x%20Spot%20Awards-Performance-8e2de2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS-Certified%20Developer-ff9900?style=for-the-badge&logo=amazonaws"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:4a00e0&height=2&section=header"/>
 </p>
 
 ## 📊 GitHub Insights
@@ -156,7 +156,7 @@ Working on **deployment, monitoring, and reliability of Apache Pulsar clusters**
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:203a43&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a00e0,100:8e2de2&height=2&section=header"/>
 </p>
 
 ## 🐍 Contribution Flow
@@ -178,9 +178,9 @@ Working on **deployment, monitoring, and reliability of Apache Pulsar clusters**
 ---
 
 <p align="center">
-✨ Cloud platforms • Distributed systems • Observability-first engineering
+✨ Cloud platforms • Observability-first engineering • Scalable systems
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:6a11cb&height=120&section=footer"/>
 </p>
