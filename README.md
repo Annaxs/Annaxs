@@ -52,12 +52,16 @@
 
 Building and operating **high-scale Apache Pulsar platforms** across distributed cloud environments
 
-#### ⚙️ Platform Engineering
+#### ⚙️ Engineering Contributuions 
 
 * 🚀 Deploying and maintaining **Pulsar clusters on Kubernetes**
 * 🧩 Working with **Cell-Based Architecture (CBA)** and non-cell systems
 * 🔐 Managing **multi-tenant event streaming environments**
 * ⚡ Driving **performance, scalability, and reliability**
+
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2&height=1&section=header"/>
+</p>
 
 #### 📊 Observability Engineering (My Core Work)
 
@@ -75,12 +79,19 @@ Building and operating **high-scale Apache Pulsar platforms** across distributed
 * 🧠 Built **template-driven monitoring**
 
   * Auto-provisioned via GitOps across all environments
-
+    
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2&height=1&section=header"/>
+</p>
 #### 🚨 Alerting & Incident Engineering
 
 * ⚠️ Designed **Grafana + Splunk alerting systems**
 * 🔔 Integrated with **ServiceNow for automated incident creation**
 * ⚡ Built **end-to-end alert → incident pipelines**
+
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2&height=1&section=header"/>
+</p>
 
 #### 🔄 Automation & GitOps
 
@@ -88,13 +99,19 @@ Building and operating **high-scale Apache Pulsar platforms** across distributed
 * 🔁 Automated observability rollout across clusters
 * 🚀 Followed **ArgoCD-driven GitOps workflows**
 
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2&height=1&section=header"/>
+</p>
+
 #### 🧠 Impact
 
 * 📉 Improved visibility across distributed clusters
 * ⚡ Reduced incident detection and resolution time
 * 🔧 Enabled scalable, repeatable monitoring systems
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2&height=1&section=header"/>
+</p>
 
 ### 🔹 Kubernetes Debug Toolkit *(WIP)*
 
@@ -102,7 +119,9 @@ Building and operating **high-scale Apache Pulsar platforms** across distributed
 * 📈 Resource-level visibility
 * ⚠️ Cluster health diagnostics
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2&height=1&section=header"/>
+</p>
 
 ### 🔹 Incident Playbooks *(Coming Soon)*
 
@@ -149,7 +168,9 @@ Building and operating **high-scale Apache Pulsar platforms** across distributed
   <img src="https://github.com/Annaxs/Annaxs/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2&height=1&section=header"/>
+</p>
 
 ## 🤝 Let’s Connect
 
