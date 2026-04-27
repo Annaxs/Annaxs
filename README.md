@@ -12,14 +12,28 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ananta%20Srivastava&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%40+FICO;Distributed+Systems+Engineer;Pulsar+%7C+Kafka+%7C+Kubernetes;Observability+%7C+Reliability;Building+Systems+That+Scale" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Annaxs&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Annaxs?label=Followers&style=flat&color=0e75b6" />
+</p>
+
+---
 
 ## 🧠 What I Do in Production
 
 * ⚙️ Design and operate **event-driven streaming systems (Pulsar & Kafka)**
-* ☁️ Work on **cloud-native infrastructure using AWS and Kubernetes**
-* 📊 Build **observability platforms (Grafana, Splunk, metrics pipelines)**
-* 🔍 Debug **high-impact production issues across distributed systems**
-* ⚡ Focus on **system reliability, scalability, and performance**
+* ☁️ Build and manage **cloud-native infrastructure (AWS + Kubernetes)**
+* 📊 Develop **observability platforms (Grafana, Splunk, metrics pipelines)**
+* 🔍 Debug **critical production issues across distributed systems**
+* ⚡ Improve **reliability, scalability, and performance**
 
 ---
 
@@ -43,101 +57,55 @@
 
 ### 🔹 Pulsar Platform Engineering & Observability
 
-Working on **deployment, monitoring, and reliability of Apache Pulsar clusters** across distributed environments
-
-#### ⚙️ Platform & Architecture
-
 * 🚀 Supporting **Pulsar deployments on Kubernetes**
 * 🧩 Working with **Cell-Based Architecture (CBA)** and non-cell environments
-* 🔐 Managing **multi-tenant streaming setups**
-* ⚡ Ensuring **high availability, scalability, and performance**
-
----
-
-#### 📊 Observability & Monitoring (My Contributions)
-
-* 🔍 Built metrics pipelines using:
-
-  * **Prometheus (ServiceMonitor / PodMonitor)**
-  * **OTEL → Cribl → SignalFx (legacy systems)**
-
-* 📊 Developed **Grafana dashboards** for:
-
-  * Broker throughput and health
-  * BookKeeper latency and storage metrics
-  * Topic-level traffic and usage insights
-
-* 🧠 Designed **template-based dashboards**
-
-  * Enabled **automatic provisioning for new environments via GitOps**
-
----
-
-#### 🚨 Alerting & Incident Integration
-
-* ⚠️ Designed alerting using **Grafana & Splunk detectors**
-* 🔔 Integrated alerts with **ServiceNow for automated incident creation**
-* ⚡ Enabled **end-to-end alert → incident workflows**
-
----
-
-#### 🔄 Automation & GitOps
-
-* 📁 Managed **dashboard JSON & alert configs via Git repositories**
-* 🔁 Enabled **auto-deployment of monitoring across environments**
-* 🚀 Followed **GitOps model (ArgoCD-driven deployments)**
-
----
-
-#### 🧠 Impact
-
-* 📉 Improved **visibility across distributed Pulsar systems**
-* ⚡ Reduced **incident detection and resolution time**
-* 🔧 Enabled **scalable observability for dynamic environments**
+* 📊 Designing **Grafana dashboards & monitoring pipelines**
+* 🚨 Building **alerting systems integrated with ServiceNow**
+* 🔄 Managing observability using **GitOps (ArgoCD-driven)**
 
 ---
 
 ### 🔹 Kubernetes Debug Toolkit *(WIP)*
 
-CLI-based toolkit for diagnosing cluster-level issues
-
-* 🛠 Pod and workload debugging
-* 📈 Resource usage visibility
-* ⚠️ Cluster health insights
+* 🛠 Pod debugging
+* 📈 Resource monitoring
+* ⚠️ Cluster health checks
 
 ---
 
 ### 🔹 Incident Playbooks *(Coming Soon)*
 
-Structured debugging workflows inspired by real production incidents
-
-* 📘 Step-by-step resolution guides
-* ⚡ Focused on reducing **MTTR in distributed systems**
-
----
-
-## ☁️ Cloud & Streaming Expertise
-
-* **Apache Pulsar** → multi-tenant event streaming, pub/sub systems
-* **Apache Kafka** → distributed messaging and data pipelines
-* **AWS** → cloud infrastructure, networking, and scaling
-* **Kubernetes** → orchestration of distributed workloads
+* 📘 Structured debugging workflows
+* ⚡ Focus on reducing **MTTR in distributed systems**
 
 ---
 
 ## 📡 Engineering Signals
 
-* 🥇 **15× Spot Award Winner @ FICO**
-* ☁️ **AWS Certified Developer – Associate**
-* 📈 Strong focus on **observability & reliability engineering**
+<p align="center">
+  <img src="https://img.shields.io/badge/15x%20Spot%20Awards-Performance-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Developer-ff9900?style=for-the-badge&logo=amazonaws"/>
+</p>
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Annaxs&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annaxs&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Annaxs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Annaxs&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annaxs&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Flow
+
+<p align="center">
+  <img src="https://github.com/Annaxs/Annaxs/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -146,12 +114,16 @@ Structured debugging workflows inspired by real production incidents
 
 <p align="center">
   <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-✨ Scaling event-driven systems. Observing everything. Fixing what matters.
+✨ Building resilient systems • Observing everything • Fixing what matters
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
