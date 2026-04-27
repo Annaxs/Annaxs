@@ -1,10 +1,3 @@
-# 👩‍💻 Ananta Srivastava
-
-<p align="center">
-  ☁️ Cloud Engineer I @ FICO <br/>
-  🚀 Distributed Systems • Pulsar • Kafka • Kubernetes <br/>
-  ⚡ Observability • Reliability • Event Streaming  
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Annaxs&label=Profile%20Views&color=blueviolet&style=flat" />
