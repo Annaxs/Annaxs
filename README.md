@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=B8B8FF&center=true&vCenter=true&width=700&lines=☁️+Cloud+Engineer+%40+FICO;⚡+Event+Streaming+%7C+Distributed+Systems;🔭+Pulsar+%7C+Kafka+%7C+Kubernetes;📊+Observability+%7C+Reliability+%7C+GitOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=B8B8FF&center=true&vCenter=true&width=750&lines=☁️+Cloud+Engineer+%40+FICO;⚡+Event+Streaming+%7C+Distributed+Systems;🔭+Pulsar+%7C+Kafka+%7C+Kubernetes;📊+Observability+%7C+Reliability+%7C+GitOps" />
 </p>
 
 <p align="center">
@@ -14,16 +14,16 @@
 
 <br/>
 
-## 🧬 About
+## 🧬 About Me
 
 Cloud Engineer at **FICO** building and operating **large-scale event-driven systems** on Kubernetes.
 
-Focused on **streaming infrastructure, observability, and reliability engineering** across Apache Pulsar, Kafka, and AWS.
+I work across **Apache Pulsar, Kafka, and AWS**, focusing on **observability, reliability engineering, and distributed systems debugging** in production environments.
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,50:B8B8FF,100:FF4FD8&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,50:B8B8FF,100:FF4FD8&height=3"/>
 </p>
 
 <br/>
@@ -35,8 +35,8 @@ Focused on **streaming infrastructure, observability, and reliability engineerin
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pulsar-0A0F1E?style=for-the-badge&logo=apache&logoColor=B8B8FF"/>
-  <img src="https://img.shields.io/badge/Kafka-0A0F1E?style=for-the-badge&logo=apachekafka&logoColor=FF4FD8"/>
+  <img src="https://img.shields.io/badge/Apache%20Pulsar-0A0F1E?style=for-the-badge&logo=apache&logoColor=B8B8FF"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-0A0F1E?style=for-the-badge&logo=apachekafka&logoColor=FF4FD8"/>
   <img src="https://img.shields.io/badge/Prometheus-0A0F1E?style=for-the-badge&logo=prometheus&logoColor=2EF9B6"/>
   <img src="https://img.shields.io/badge/Grafana-0A0F1E?style=for-the-badge&logo=grafana&logoColor=B8B8FF"/>
   <img src="https://img.shields.io/badge/Splunk-0A0F1E?style=for-the-badge&logo=splunk&logoColor=FF4FD8"/>
@@ -46,7 +46,7 @@ Focused on **streaming infrastructure, observability, and reliability engineerin
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EF9B6,50:B8B8FF,100:FF4FD8&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EF9B6,50:B8B8FF,100:FF4FD8&height=3"/>
 </p>
 
 <br/>
@@ -54,49 +54,58 @@ Focused on **streaming infrastructure, observability, and reliability engineerin
 ## 🚀 Engineering Work
 
 ### 🟣 Pulsar Platform Engineering
-- Deployed and operate **Apache Pulsar on Kubernetes**
-- Worked across **Cell-Based Architecture (CBA)** and legacy environments
-- Managed brokers, bookies, and cluster operations
-- Scaling, upgrades, and production reliability
+- Deploy and operate **Apache Pulsar on Kubernetes**
+- Work with **Cell-Based Architecture (CBA)** and legacy setups
+- Manage brokers, BookKeeper, and cluster lifecycle
+- Handle scaling, upgrades, and reliability under production load
 
 <br/>
 
-### 📊 Observability Systems
-- Built **end-to-end monitoring pipelines**
-- Prometheus (CBA) + OTEL → Splunk (DMP)
-- Designed **Grafana dashboards**:
-  - Broker (throughput, latency)
-  - BookKeeper (storage, replication)
-  - Topic (traffic, consumer lag)
+### 📊 Observability Systems (Built & Owned)
 
-- Alerting:
-  - Grafana / Splunk → ServiceNow incidents
+**Modern Stack (CBA)**
+- Prometheus (ServiceMonitor / PodMonitor)
+- Grafana dashboards via **ArgoCD (GitOps)**
+- Auto-monitoring onboarding
+
+**Legacy Stack (DMP)**
+- OTEL → Cribl → SignalFx → Splunk
+
+**Dashboards**
+- Broker: throughput, latency
+- BookKeeper: storage, replication
+- Topics: traffic, consumer lag
+
+**Impact**
+- Reduced MTTR  
+- Improved system visibility  
+- Automated alert → incident pipeline  
 
 <br/>
 
 ### 🚨 Alerting & Reliability
-- Designed **low-noise alert systems**
-- Automated **incident creation pipelines**
-- Improved **MTTR & system visibility**
+- Built **Grafana & Splunk alerting systems**
+- Integrated with **ServiceNow**
+- Designed **low-noise, high-signal alerts**
 
 <br/>
 
 ### ☁️ Kafka Infrastructure (AWS)
 - Operate production Kafka clusters
 - Performance tuning & scaling
-- SSL + distributed system debugging
+- SSL security + debugging distributed failures
 
 <br/>
 
 ### 🔄 GitOps & Platform Ops
-- ArgoCD-based deployments
+- ArgoCD-driven deployments
 - Git as **single source of truth**
-- Zero manual drift
+- Zero manual drift environments
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8B8FF,50:FF4FD8,100:2EF9B6&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8B8FF,50:FF4FD8,100:2EF9B6&height=3"/>
 </p>
 
 <br/>
@@ -115,7 +124,7 @@ Focused on **streaming infrastructure, observability, and reliability engineerin
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FD8,50:2EF9B6,100:B8B8FF&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FD8,50:2EF9B6,100:B8B8FF&height=3"/>
 </p>
 
 <br/>
@@ -123,8 +132,8 @@ Focused on **streaming infrastructure, observability, and reliability engineerin
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Annaxs&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Annaxs&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Annaxs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Annaxs&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
@@ -132,13 +141,16 @@ Focused on **streaming infrastructure, observability, and reliability engineerin
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Annaxs/Annaxs/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Annaxs/Annaxs/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Annaxs/Annaxs/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EF9B6,50:FF4FD8,100:B8B8FF&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EF9B6,50:FF4FD8,100:B8B8FF&height=3"/>
 </p>
 
 <br/>
