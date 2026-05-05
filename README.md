@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=B8B8FF&center=true&vCenter=true&width=650&lines=☁️+Cloud+Engineer+%40+FICO;⚡+Distributed+Systems+%7C+Event+Streaming;🔭+Pulsar+%7C+Kafka+%7C+Kubernetes;📊+Observability+%7C+Reliability" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=B8B8FF&center=true&vCenter=true&width=700&lines=☁️+Cloud+Engineer+%40+FICO;⚡+Event+Streaming+%7C+Distributed+Systems;🔭+Pulsar+%7C+Kafka+%7C+Kubernetes;📊+Observability+%7C+Reliability+%7C+GitOps" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 Cloud Engineer at **FICO** building and operating **large-scale event-driven systems** on Kubernetes.
 
-Focused on **streaming infrastructure, observability, and production reliability** — working across Apache Pulsar, Kafka, and AWS-based distributed environments.
+Focused on **streaming infrastructure, observability, and reliability engineering** across Apache Pulsar, Kafka, and AWS.
 
 <br/>
 
@@ -54,61 +54,44 @@ Focused on **streaming infrastructure, observability, and production reliability
 ## 🚀 Engineering Work
 
 ### 🟣 Pulsar Platform Engineering
-
-Own the lifecycle of **Apache Pulsar clusters on Kubernetes**, across both modern and legacy environments.
-
-- Multi-tenant deployments in **Cell-Based Architecture (CBA)**
-- Broker, BookKeeper, and cluster-level operations
+- Deployed and operate **Apache Pulsar on Kubernetes**
+- Worked across **Cell-Based Architecture (CBA)** and legacy environments
+- Managed brokers, bookies, and cluster operations
 - Scaling, upgrades, and production reliability
-- High-throughput, low-latency streaming systems
 
 <br/>
 
-### 📊 Observability Systems (Built & Owned)
+### 📊 Observability Systems
+- Built **end-to-end monitoring pipelines**
+- Prometheus (CBA) + OTEL → Splunk (DMP)
+- Designed **Grafana dashboards**:
+  - Broker (throughput, latency)
+  - BookKeeper (storage, replication)
+  - Topic (traffic, consumer lag)
 
-Designed and implemented **end-to-end monitoring systems** across environments:
-
-**Modern Stack (CBA)**
-- Prometheus via ServiceMonitor / PodMonitor  
-- Grafana dashboards deployed via GitOps (ArgoCD + Helm)  
-- Auto-onboarding monitoring for new clusters  
-
-**Legacy Stack (DMP)**
-- OTEL → Cribl → SignalFx → Splunk  
-
-**Dashboards**
-- Broker: throughput, latency, cache  
-- BookKeeper: storage, replication, disk health  
-- Topics: traffic patterns, consumer lag  
-
-**Impact**
-- Reduced incident detection time  
-- Improved debugging visibility  
-- Fully automated alert → incident workflows  
+- Alerting:
+  - Grafana / Splunk → ServiceNow incidents
 
 <br/>
 
-### 🚨 Alerting & Incident Engineering
-
-- Built **Grafana & Splunk alert pipelines**
-- Integrated with **ServiceNow for auto incident creation**
-- Designed for **low-noise, high-signal alerting**
+### 🚨 Alerting & Reliability
+- Designed **low-noise alert systems**
+- Automated **incident creation pipelines**
+- Improved **MTTR & system visibility**
 
 <br/>
 
 ### ☁️ Kafka Infrastructure (AWS)
-
-- Operate **production Kafka clusters**
-- Performance tuning, scaling, and reliability improvements
-- SSL security and distributed system debugging
+- Operate production Kafka clusters
+- Performance tuning & scaling
+- SSL + distributed system debugging
 
 <br/>
 
-### 🔄 GitOps & Platform Operations
-
-- ArgoCD-driven deployments  
-- Git as **single source of truth**  
-- Fully automated environments (no manual drift)  
+### 🔄 GitOps & Platform Ops
+- ArgoCD-based deployments
+- Git as **single source of truth**
+- Zero manual drift
 
 <br/>
 
@@ -126,7 +109,7 @@ Designed and implemented **end-to-end monitoring systems** across environments:
 </p>
 
 <p align="center">
-  <b>3 years of consistent high-impact delivery @ FICO</b>
+  <b>3 years of outstanding delivery • 15× Spot Award Winner @ FICO</b>
 </p>
 
 <br/>
@@ -137,7 +120,7 @@ Designed and implemented **end-to-end monitoring systems** across environments:
 
 <br/>
 
-## 📊 GitHub
+## 📊 GitHub Insights
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Annaxs&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -149,7 +132,7 @@ Designed and implemented **end-to-end monitoring systems** across environments:
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Annaxs/Annaxs/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Annaxs/Annaxs/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br/>
