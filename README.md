@@ -163,6 +163,18 @@ Contributions:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FD8,50:B8B8FF,100:2EF9B6&height=3"/>
 </p>
 
+# talks/
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ydob4SdiZtM">
+    <img src="https://img.youtube.com/vi/ydob4SdiZtM/maxresdefault.jpg" width="600" style="border-radius:8px"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EF9B6,50:B8B8FF,100:FF4FD8&height=3"/>
+</p>
+
 # impact.stats
 
 <p align="center">
