@@ -197,6 +197,10 @@ Contributions:
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Annaxs/Annaxs/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8B8FF,50:FF4FD8,100:2EF9B6&height=3"/>
 </p>
 
