@@ -193,7 +193,7 @@ Contributions:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annaxs&theme=react-dark&bg_color=0A0F1E&hide_border=true&color=B8B8FF&line=FF4FD8&point=2EF9B6&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annaxs&theme=react-dark&bg_color=0A0F1E&hide_border=true&color=B8B8FF&line=FF4FD8&point=2EF9B6&area=true&hide_title=true" />
 </p>
 
 <p align="center">
