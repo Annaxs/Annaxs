@@ -188,8 +188,25 @@ Contributions:
 # github-insights
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=2EF9B6&center=true&vCenter=true&width=700&lines=%24+kubectl+get+pods+--all-namespaces;%24+pulsar-admin+brokers+list;%24+git+push+origin+main;%24+argocd+app+sync+production" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EF9B6,50:B8B8FF,100:FF4FD8&height=3"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Annaxs&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=4"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FD8,50:B8B8FF,100:2EF9B6&height=3"/>
+</p>
+
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Annaxs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=B8B8FF&icon_color=FF4FD8&text_color=ffffff" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Annaxs&theme=tokyonight&hide_border=true&background=0A0F1E&ring=B8B8FF&fire=FF4FD8&currStreakLabel=2EF9B6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annaxs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=B8B8FF&text_color=2EF9B6" />
 </p>
 
 <p align="center">
